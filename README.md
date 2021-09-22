@@ -1,7 +1,13 @@
-- 👋 Hi, I’m Matej
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 matej.rakar98@gmail.com
+### Hi there 👋, my name is Matej
+#### I am a software developer
+![I am a software developer](https://github.com/matejrakar/matejrakar/blob/main/banner.png)
+
+I enjoy programming, spending time with my friends, hiking and learning.
+
+Skills: Java / Oracle / JavaScript / Spring Boot / Java Persistence API / Angular / MS Office/ JasperSoft iReport
+
+
+
+
 
 
